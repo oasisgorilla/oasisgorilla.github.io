@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "oasisgorilla"
+  name             : "OasisGorilla"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "The coding ape"
   location         : "Serengeti"
-  email            : "yongjae0522@gmail.com
+  email            : "yongjae0522@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
